@@ -5,7 +5,7 @@ I'm a frontend developer who loves turning ideas into interactive and dynamic we
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/toemasaif)
-[![LinkedIn](https://www.linkedin.com/in/seif-teima-0102a2253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LinkedIn]([https://www.linkedin.com/in/seif-teima-0102a2253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/seif-teima-0102a2253/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@STo3ima) 
 
 # 💻 Tech Stack:
