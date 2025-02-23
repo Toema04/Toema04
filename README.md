@@ -1,6 +1,6 @@
 # Saif Toema
 # 💫 About Me:
-I'm currently learning Angular, UI/UX<br>Ask me about Frontend
+Hi there! I’m a Frontend Developer with a passion for crafting modern, scalable, and interactive web applications. I specialize in React.js and Next.js, leveraging the power of TypeScript, Tailwind CSS, and Framer Motion to build high-performance, visually appealing UIs.
 
 
 ## 🌐 Socials:
